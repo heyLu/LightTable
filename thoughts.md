@@ -1,0 +1,16 @@
+# cat /dev/random | LT
+
+## ideas
+
+* opening arbitrary urls/file types
+    - images, websites, urls, directories, zip files
+        * e.g. different protocols, representations or both
+* BOT explorer. it's a graph and making it explorable (possible
+    even editable would make developing LT easier, especially
+    for beginners and understanding the interactions between
+    different components)
+* clickable/jumpable stacktraces. seems to be anticipated as
+    lines in stacktraces are already highlighted on `:hover`.
+* applications in LT. it's kind of a very advanced web-browser,
+    with access to the system (via node) and inspectable, so why
+    not at least prototype with/in it?
