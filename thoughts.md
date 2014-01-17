@@ -6,7 +6,7 @@
     - images, websites, urls, directories, zip files
         * e.g. different protocols, representations or both
 * BOT explorer. it's a graph and making it explorable (possible
-    even editable would make developing LT easier, especially
+    even editable. would make developing LT easier, especially
     for beginners and understanding the interactions between
     different components)
 * clickable/jumpable stacktraces. seems to be anticipated as
