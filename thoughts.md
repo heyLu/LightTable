@@ -14,3 +14,8 @@
 * applications in LT. it's kind of a very advanced web-browser,
     with access to the system (via node) and inspectable, so why
     not at least prototype with/in it?
+* a plugin based on `core.typed` that makes validating and exploring
+    clojure(-script) programs easier
+    - e.g. it should be able to figure out what kinds of objects
+        functions expect which is often a bit difficult to do by
+        hand.
