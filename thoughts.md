@@ -19,3 +19,6 @@
     - e.g. it should be able to figure out what kinds of objects
         functions expect which is often a bit difficult to do by
         hand.
+* a shell interaction plugin, which should make experiments with
+    long scripts more enjoyable. but it should probably also integrate
+    with the history and completion of the shell.
